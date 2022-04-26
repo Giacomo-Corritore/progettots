@@ -1,4 +1,3 @@
-// Interfaccia smartphone
 interface Smartphone {
 
     
